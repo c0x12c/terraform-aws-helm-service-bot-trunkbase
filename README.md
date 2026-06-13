@@ -1,3 +1,5 @@
+> **ARCHIVED — deprecated.** This module is no longer maintained and is not part of [`c0x12c/terraform-modules`](https://github.com/c0x12c/terraform-modules).
+
 # Terraform AWS Helm Service Bot Trunkbase
 
 This Terraform module deploys `service-bot-trunkbase` on AWS EKS using Helm. It integrates with Slack and GitHub (via GitHub App authentication) to automate release workflows — cut-off branches, create tags, hotfixes, and deployment notifications.
